@@ -26,6 +26,7 @@ keywords: "AI copywriting, freelance copywriters, AI writing tools, content gene
 lang: "en"
 author: "CopyAIHub"
 minimal_mistakes_skin: default
+favicon: "/favicon.ico"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
