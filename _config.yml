@@ -29,6 +29,13 @@ minimal_mistakes_skin: default
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-target-blank
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: "Discover the best AI copywriting tools for freelance writers to improve efficiency, SEO, and content quality."
 
 analytics:
   provider: "google-gtag"
