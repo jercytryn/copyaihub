@@ -31,7 +31,7 @@ plugins:
   - jekyll-include-cache
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-2S30VLWR51"
     anonymize_ip: true # Ensure compliance & match privacy policy
