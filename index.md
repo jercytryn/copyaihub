@@ -28,7 +28,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Generate high-converting copy in seconds
 - ✅ Over 40+ use cases including blog posts, emails, and ads
 - ✅ Budget-friendly AI tool with a generous free plan  
-[→ Start Writing Smarter with Rytr](https://rytr.me/?via=copyaihub){: .affiliate-btn}
+[→ Start Writing Smarter with Rytr](https://rytr.me/?via=copyaihub){: .affiliate-btn target="_blank"}
 
 ### ✨ [Writesonic](https://writesonic.com/)
 *AI content creation simplified.*
@@ -36,7 +36,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Quickly produce SEO-optimized blogs, articles, and landing pages
 - ✅ User-friendly tools to streamline content creation
 - ✅ Ideal for both short-form and long-form copy projects  
-[→ Discover Writesonic](https://writesonic.com/)
+[→ Discover Writesonic](https://writesonic.com/){: target="_blank"}
 
 ### 🧠 [Anyword](https://www.anyword.com/)
 *Data-driven AI copywriting to boost your conversions.*
@@ -44,7 +44,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Predictive scoring shows exactly how well your copy will perform
 - ✅ Create highly targeted copy tailored to your audience
 - ✅ Generate optimized ads, emails, and social media content instantly  
-[→ Optimize your copy with Anyword](https://www.anyword.com/)
+[→ Optimize your copy with Anyword](https://www.anyword.com/){: target="_blank"}
 
 ### 📝 [Copy.ai](https://copy.ai)
 *Generate client-ready copy in seconds.*
@@ -52,7 +52,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Create persuasive ads, landing pages, emails, and social posts
 - ✅ Intuitive templates to eliminate writer’s block
 - ✅ Start for free—no risk, just results  
-[→ Try Copy.ai now](https://copy.ai)
+[→ Try Copy.ai now](https://copy.ai){: target="_blank"}
 
 ### 🚀 [Jasper AI](https://jasper.ai)
 *Powerful AI assistance for premium-quality, long-form copy.*
@@ -60,7 +60,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Craft complete articles and engaging sales copy instantly
 - ✅ Capture your unique voice effortlessly
 - ✅ Integrated SEO features to rank higher, faster  
-[→ Explore Jasper AI](https://jasper.ai)
+[→ Explore Jasper AI](https://jasper.ai){: target="_blank"}
 
 ### ✍️ [Wordtune](https://www.wordtune.com/)
 *Transform your writing instantly.*
@@ -68,7 +68,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Instantly rephrase your content for maximum clarity and impact
 - ✅ Adjust tone and style effortlessly for every client
 - ✅ Integrates seamlessly with your existing workflow  
-[→ Elevate your writing with Wordtune](https://www.wordtune.com/)
+[→ Elevate your writing with Wordtune](https://www.wordtune.com/){: target="_blank"}
 
 ---
 
@@ -80,7 +80,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Discover exactly what keywords will boost your rankings
 - ✅ Automatically analyze competitor strategies
 - ✅ Effortlessly optimize your content to outrank the competition  
-[→ Boost your SEO with Surfer](https://surferseo.com)
+[→ Boost your SEO with Surfer](https://surferseo.com){: target="_blank"}
 
 ---
 
@@ -99,7 +99,7 @@ Ready to transform your freelance copywriting career?
 ---
 ## 🛑 Affiliate Disclosure
 <div class="affiliate-disclosure">
-Some links on this site are affiliate links. This means I may earn a commission at **no extra cost to you** if you make a purchase through these links. Your support helps keep this site running. Thank you!
+Some links on this site are affiliate links. This means I may earn a commission at <strong>no extra cost to you</strong> if you make a purchase through these links. Your support helps keep this site running. Thank you!
 </div>
 
 
