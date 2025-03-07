@@ -25,10 +25,16 @@ url: "https://copyaihub.com"
 keywords: "AI copywriting, freelance copywriters, AI writing tools, content generation, SEO copywriting tools"
 lang: "en"
 author: "CopyAIHub"
-google_analytics: "G-2S30VLWR51"  # Replace with your GA tracking ID if applicable
 minimal_mistakes_skin: default
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-2S30VLWR51"
+    anonymize_ip: true # Ensure compliance & match privacy policy
 
 # Exclude from processing.
 # The following items will not be processed, by default.
