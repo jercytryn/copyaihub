@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: 'AI Tools for Freelance Copywriters \| CopyAIHub'
+title: AI Tools for Freelance Copywriters | CopyAIHub
 classes: wide
 header:
   overlay_color: "#5e616c"
