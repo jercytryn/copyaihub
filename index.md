@@ -28,7 +28,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 - ✅ Generate high-converting copy in seconds
 - ✅ Over 40+ use cases including blog posts, emails, and ads
 - ✅ Budget-friendly AI tool with a generous free plan  
-[→ Start Writing Smarter with Rytr](https://rytr.me/?via=copyaihub)
+[→ Start Writing Smarter with Rytr](https://rytr.me/?via=copyaihub){: .affiliate-btn}
 
 ### ✨ [Writesonic](https://writesonic.com/)
 *AI content creation simplified.*
@@ -97,5 +97,11 @@ Ready to transform your freelance copywriting career?
 👉 [Bookmark CopyAIHub](https://copyaihub.com) now, and become the copywriter clients can't afford to lose.
 
 ---
+## 🛑 Affiliate Disclosure
+<div class="affiliate-disclosure">
+Some links on this site are affiliate links. This means I may earn a commission at **no extra cost to you** if you make a purchase through these links. Your support helps keep this site running. Thank you!
+</div>
 
+
+---
 <small>[Privacy Policy](/privacy) | [Contact Us](mailto:hello@copyaihub.com)</small>
