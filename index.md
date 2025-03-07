@@ -18,7 +18,7 @@ At **CopyAIHub**, we've handpicked the absolute best AI-powered writing tools sp
 
 ---
 
-## ✨ Instantly Level-Up Your Copywriting Game
+## ✨ Best AI Copywriting Tools to Improve Your Freelance Writing
 
 Every tool here has one mission: helping you create stunning, effective copy faster—without compromising quality.
 
@@ -72,7 +72,7 @@ Every tool here has one mission: helping you create stunning, effective copy fas
 
 ---
 
-## 🔎 Optimize Your Copy for SEO Success
+## 🔎 AI SEO Tools to Rank Higher in Google
 
 ### 📈 [SurferSEO](https://surferseo.com)
 *AI-driven SEO tools trusted by professional freelance copywriters.*

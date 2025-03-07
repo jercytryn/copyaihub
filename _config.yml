@@ -23,6 +23,9 @@ description: "Explore handpicked AI copywriting tools tailored specifically for 
 theme: minimal-mistakes-jekyll
 url: "https://copyaihub.com"
 keywords: "AI copywriting, freelance copywriters, AI writing tools, content generation, SEO copywriting tools"
+lang: "en"
+author: "CopyAIHub"
+google_analytics: "G-2S30VLWR51"  # Replace with your GA tracking ID if applicable
 minimal_mistakes_skin: default
 plugins:
   - jekyll-include-cache
