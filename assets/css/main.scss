@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Override the hero caption position
+.page__hero-caption {
+    position: absolute !important;
+    bottom: 0px !important; /* Adjust as needed */
+    left: 0px !important; /* Moves caption to bottom-left */
+    right: auto !important;
+    text-align: left !important;
+}

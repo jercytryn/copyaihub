@@ -2,8 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
-title: "CopyAIHub | AI Tools for Freelance Copywriters"
+layout: single
+title: 'AI Tools for Freelance Copywriters \| CopyAIHub'
+classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: 0.3
+  overlay_image: /assets/images/hero-banner.jpg
+  caption: "Elevate your copywriting with AI"
 ---
 
 # 🚀 Write Smarter. Impress Clients. Save Time.

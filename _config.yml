@@ -20,9 +20,12 @@
 
 title: "CopyAIHub – Top AI Tools for Freelance Copywriters"
 description: "Explore handpicked AI copywriting tools tailored specifically for freelance copywriters. Maximize your productivity, impress your clients, and effortlessly create exceptional content."
-theme: minima
+theme: minimal-mistakes-jekyll
 url: "https://copyaihub.com"
 keywords: "AI copywriting, freelance copywriters, AI writing tools, content generation, SEO copywriting tools"
+minimal_mistakes_skin: default
+plugins:
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
