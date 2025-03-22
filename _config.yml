@@ -34,11 +34,30 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-sitemap
+include:
+  - _pages
 defaults:
+  # _posts
   - scope:
       path: ""
+      type: posts
     values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: false
       description: "Discover the best AI copywriting tools for freelance writers to improve efficiency, SEO, and content quality."
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      description: "Discover the best AI copywriting tools for freelance writers to improve efficiency, SEO, and content quality."
+
 
 analytics:
   provider: "google-gtag"

@@ -1,5 +1,7 @@
 main:
   - title: "AI Tools Hub"
     url: /
+  - title: "Posts"
+    url: /posts/
   - title: "Privacy"
     url: /privacy/
