@@ -101,7 +101,3 @@ Ready to transform your freelance copywriting career?
 <div class="affiliate-disclosure">
 Some links on this site are affiliate links. This means I may earn a commission at <strong>no extra cost to you</strong> if you make a purchase through these links. Your support helps keep this site running. Thank you!
 </div>
-
-
----
-<small>[Privacy Policy](/privacy) | [Contact Us](mailto:hello@copyaihub.com)</small>
