@@ -3,17 +3,13 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-
-  // Allow analytics but disable cookies and storage
   gtag('consent', 'default', {
-    'analytics_storage': 'denied', 
-    'ad_storage': 'denied'        
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied'
   });
-
   gtag('js', new Date());
-
   gtag('config', '{{ site.analytics.google.tracking_id }}', {
     'anonymize_ip': {{ site.analytics.google.anonymize_ip | default: false }},
-    'client_storage': 'none'
+    'storage': 'none'
   });
 </script>
